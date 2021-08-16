@@ -1,0 +1,42 @@
+﻿  Main.cpp
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(63,23): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(73,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(87,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(103,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(120,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(131,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(143,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(155,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(168,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(181,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(197,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(208,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(220,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(236,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(248,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(258,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(271,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(285,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(298,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(1171): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,double,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=double
+          ]
+C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Game.h(1171): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,double,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=double
+          ]
+  College_Basketball_Predictor.vcxproj -> C:\Users\joeku\Documents\testFolder\College_Basketball_Predictor\Debug\College_Basketball_Predictor.exe
