@@ -1,2 +1,2 @@
 # College-Basketball-Predictor
-This is a college basketball predictor that I made in the winter of 2019. It attempts to predict what the outcome of college basketball games will be based on a number of stats. The statistics in this repository are from 2019 as well.
+This is a college basketball predictor that I made in the winter of 2019. It attempts to predict what the outcome of college basketball games will be based on a number of stats. The statistics in this repository are from 2019 basketball-reference.com as well. The csvstream.h reader was made by Andrew DeOrio and was given to students in a University of Michigan class--that file is not my own, the others, however, are.
